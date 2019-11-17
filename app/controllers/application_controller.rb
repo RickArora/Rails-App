@@ -9,7 +9,7 @@ class ApplicationController < ActionController::Base
   end
 
   def mundo 
-    render html "hola, mundo!"
+    render html: "hola, mundo!"
   end
   
 end
