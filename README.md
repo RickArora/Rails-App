@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Repo of small Rails Applications I am building to learn Rails.
 
 Things you may want to cover:
 
